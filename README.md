@@ -37,7 +37,7 @@ The `index.html` file is the main entry point of the website. It includes severa
 - **Responsive Design**: The layout is responsive and adapts to different screen sizes using Bootstrap.
 
 ![Wireframes for Laptop](readme_pics/PC_wireframe.png)
-![Wireframes for Laptop] (readme_pics/PC_wireframe.png)
+![Wireframes for Laptop] (readme_pics/Mobile_wireframe.png)
 
 - **Custom Styles**: Custom CSS styles are defined in `assets/css/styles.css` to enhance the visual appearance of the website.
 - **Interactive Elements**: Includes a Bootstrap modal to provide additional information about safeguarding.
