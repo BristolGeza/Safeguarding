@@ -4,6 +4,8 @@
 
 This project is a web platform designed to provide safeguarding and support resources for children and vulnerable people. The goal is to create a comprehensive resource hub that brings together essential links to safeguarding resources, including detailed guidelines, emergency contacts, and access to a variety of support services.
 
+
+
 ## index.html
 
 The `index.html` file is the main entry point of the website. It includes several sections that provide information and resources related to safeguarding:
@@ -33,6 +35,10 @@ The `index.html` file is the main entry point of the website. It includes severa
 ### Key Features
 
 - **Responsive Design**: The layout is responsive and adapts to different screen sizes using Bootstrap.
+
+![Wireframes for Laptop](readme_pics/PC_wireframe.png)
+![Wireframes for Laptop] (readme_pics/PC_wireframe.png)
+
 - **Custom Styles**: Custom CSS styles are defined in `assets/css/styles.css` to enhance the visual appearance of the website.
 - **Interactive Elements**: Includes a Bootstrap modal to provide additional information about safeguarding.
 
@@ -56,3 +62,5 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+[def]: readme_pics/Mobile_wireframe.png
