@@ -57,7 +57,7 @@ The `index.html` file is the main entry point of the website. It includes severa
 
 ## gdpr.html
 
-The `gdpr.html` file provides information about the General Data Protection Regulation (GDPR) and how it applies to the safeguarding platform. It includes details on data protection policies, user rights, and contact information for data protection inquiries.
+The `gdpr` section provides information about the General Data Protection Regulation (GDPR) and how it applies to the safeguarding platform. It includes details on data protection policies, user rights, and contact information for data protection inquiries.
 
 
 ### How to Use
