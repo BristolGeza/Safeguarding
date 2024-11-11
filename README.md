@@ -62,6 +62,11 @@ The `index.html` file is the main entry point of the website. It includes severa
 3. Explore the resources and support options available.
 4. Use the contact form to reach out for support or inquiries.
 
+### Image Credits
+
+The pictures used in this project were generated with Adobe AI.
+
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. We welcome contributions that improve the functionality and usability of the platform.
