@@ -39,6 +39,16 @@ h2 {
     background-color: var(--button-hover);
     border: var(--button-hover);
 }
+.contact-button {
+    background-color: var(--egg-blue);
+    border: var(--mid-blue);
+    color: var(--dark-blue);
+}
+
+.contact-button:hover {
+    background-color: var(--button-hover);
+    border: var(--mid-blue);
+}
 
 /* About section */
 
