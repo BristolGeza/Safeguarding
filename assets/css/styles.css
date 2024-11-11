@@ -49,16 +49,16 @@ h2 {
 /* Resources section */
 
 #resources {
-    background-color: #dbdcde; /* light grey */
+    background-color: var(--mid-blue);
 }
 
 #resources .card-title {
-    color: #1f7798; /* mid blue */
+    color: var(--mid-blue);
     font-size: 1.2rem;
 }
 
 #resources .btn-outline-secondary:hover {
-    background-color: #1f7798; /* mid blue */
+    background-color: var(--mid-blue);
 }
 
 #resources .card-text {
@@ -70,13 +70,13 @@ h2 {
 
 #contact {
     background-color: white;
-    color:#184f63;
+    color:var(--dark-blue);
 }
 
 /* Header  section */
 
 #hero {
-    background-color: #dbdcde; /* light grey */
+    background-color: var(--light-grey);
     background-image: url("../images/bg.jpg");
     background-size: cover;
     background-position: 50% 70%;
@@ -90,7 +90,7 @@ h2 {
 /* Footer section*/
 
  footer {
-            background-color: #184f63;
+            background-color: var(--dark-blue);
             color: #fff;
             text-align: center;
             padding: 20px 0;
@@ -105,7 +105,7 @@ h2 {
             font-size: 1.5em;
         }
     footer a:hover {
-    color:  #a4c2d1;
+    color:  var(--egg-blue);
 }
     footer a {
              color: #fff;
