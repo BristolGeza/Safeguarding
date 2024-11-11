@@ -55,6 +55,11 @@ The `index.html` file is the main entry point of the website. It includes severa
 - **Font Awesome**: Used for social media icons in the footer.
 - **Google Fonts**: Custom fonts are imported for a better visual appeal.
 
+## gdpr.html
+
+The `gdpr.html` file provides information about the General Data Protection Regulation (GDPR) and how it applies to the safeguarding platform. It includes details on data protection policies, user rights, and contact information for data protection inquiries.
+
+
 ### How to Use
 
 1. Open `index.html` in a web browser to view the website.
