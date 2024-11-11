@@ -122,9 +122,9 @@ h2 {
 
 /* Media queries */
 
-/* Use Bootstrap breakpoint for XL screens */
+/* Bootstrap breakpoint for XL screens */
 @media screen and (min-width: 1200px) {
-    /* Fixes all resources cards being too tall on xl screens */
+    /* Fixes all cards being too tall on xl screens */
     #resources .card-text {
         min-height: auto;
     }    
