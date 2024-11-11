@@ -113,7 +113,12 @@ h2 {
             text-decoration: none;
       }
        
-
+/* GDPR Link */
+.gdpr-link {
+    color: var(--dark-blue);
+    font-size: 0.8rem;
+    text-decoration: none;
+}
 
 /* Media queries */
 
