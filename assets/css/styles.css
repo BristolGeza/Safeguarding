@@ -2,15 +2,25 @@
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap');
 
+/* CSS Variables */
+:root {
+
+    --egg-blue: #a4c2d1; 
+    --light-grey: #dbdcde; 
+    --mid-blue: #1f7798; 
+    --dark-blue: #184f63; 
+    --button-hover: #1d6d8a;
+}
+
 body {
     font-family: "Poppins", sans-serif;
-    background-color: #a4c2d1; /* egg blue */
+    background-color: var(--egg-blue);
 }
 
 h1,
 h2 {
     font-family: "DM Serif Display", serif;
-    color: #184f63; /* dark-blue */
+    color: var(--dark-blue);
 }
 
 .sharp-corners,
@@ -21,13 +31,13 @@ h2 {
 /* Buttons */
 
 .custom-button {
-    background-color: #1f7798;
-    border: #1f7798
+    background-color: var(--mid-blue);
+    border: var(--mid-blue);
 }
 
 .custom-button:hover {
-    background-color: #1d6d8a;
-    border: #1d6d8a
+    background-color: var(--button-hover);
+    border: var(--button-hover);
 }
 
 /* About section */
