@@ -81,6 +81,10 @@ CSS Validator
 
 ![CSS Validator](readme_pics/cssvalidator.png)
 
+HTML Validator
+
+![CSS Validator](readme_pics/html.png)
+
 ### Website responsive test
 
 Moblie:
