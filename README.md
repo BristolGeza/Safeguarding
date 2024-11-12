@@ -81,6 +81,21 @@ CSS Validator
 
 ![CSS Validator](readme_pics/cssvalidator.png)
 
+### Website responsive test
+
+Moblie:
+
+![Mobile](readme_pics/mobile.png)
+
+Tablet:
+
+![Tablet](readme_pics/tablet.png)
+
+Laptop:
+
+![laptop](readme_pics/laptop.png)
+
+
 
 ## Contributing
 
