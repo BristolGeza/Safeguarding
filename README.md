@@ -85,7 +85,7 @@ CSS Validator
 
 Moblie:
 
-![Mobile](readme_pics/mobile.png)
+![Mobile](readme_pics/moblie.png)
 
 Tablet:
 
