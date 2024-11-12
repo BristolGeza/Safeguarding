@@ -41,14 +41,13 @@ h2 {
 }
 .contact-button {
     background-color: white;
-    
     border: 2px solid var(--dark-blue);
     color: var(--dark-blue);
 }
 
 .contact-button:hover {
     background-color: var(--button-hover);
-    border: var(--mid-blue);
+    border: 2px solid var(--dark-blue);
 }
 
 /* About section */
