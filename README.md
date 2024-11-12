@@ -71,6 +71,16 @@ The `gdpr` section provides information about the General Data Protection Regula
 
 The pictures used in this project were generated with Adobe AI.
 
+### Test Results
+
+Google Lighthouse
+
+![Google Lighthouse](readme_pics/lighthouse.png)
+
+CSS Validator
+
+![CSS Validator](readme_pics/cssvalidator.png)
+
 
 ## Contributing
 
