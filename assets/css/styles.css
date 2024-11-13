@@ -89,6 +89,7 @@ h2 {
     background-color: var(--light-grey);
     background-image: url("../images/bg.jpg");
     background-size: cover;
+    
     background-position: 50% 70%;
     min-height: 300px;
     padding: 5% 7%;
